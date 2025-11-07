@@ -45,7 +45,7 @@ It performs **medical summarization**, **sentiment & intent analysis**, and **SO
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/SampathVinayak07/AI-Physician-Notetaker.git
-cd Emitrr_project
+cd AI-Physician-Notetaker
 ```
 
 ### 2. Create and Activate Virtual Environment
