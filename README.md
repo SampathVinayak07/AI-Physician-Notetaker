@@ -111,4 +111,4 @@ Patient: Yes, I had ten physiotherapy sessions and now I only have occasional ba
   "Treatment": ["Painkillers", "Physiotherapy"],
   "Current_Status": "Occasional back pain",
   "Prognosis": "Full recovery expected within six months"
-}```
+}
