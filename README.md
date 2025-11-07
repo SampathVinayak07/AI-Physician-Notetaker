@@ -44,7 +44,7 @@ It performs **medical summarization**, **sentiment & intent analysis**, and **SO
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Emitrr_project.git
+git clone https://github.com/SampathVinayak07/AI-Physician-Notetaker.git
 cd Emitrr_project
 ```
 
